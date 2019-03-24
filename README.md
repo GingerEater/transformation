@@ -1,2 +1,2 @@
 # transformation
-complement of paper “Transformation Networks for Target-Oriented Sentiment Classification”
+The implementation complement of paper “Transformation Networks for Target-Oriented Sentiment Classification”
